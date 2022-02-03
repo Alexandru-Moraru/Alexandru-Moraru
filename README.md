@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexandru-Moraru
-- 👀 I’m interested in learning new stuff on technology and constantly improve myself little by little.
+- 👀 I’m interested in learning new stuff on technology and constantly improving myself little by little.
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ For now I’m looking to learn on web development.
 - 📫 You can reach me by email: morarualexandru84@gmail.com
 
 <!---
